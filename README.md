@@ -1,8 +1,10 @@
 ## Hi there 👋
 ### Certifications
-[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7a62178a-a47c-4172-be79-a1a170ff7d4f.jpeg?v=1789407610)](https://www.boot.dev/certificates/7a62178a-a47c-4172-be79-a1a170ff7d4f)
-[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e93ee8f1-76ff-41f5-b0eb-ed2f406cabb5.jpeg?v=1789879634)](https://www.boot.dev/certificates/e93ee8f1-76ff-41f5-b0eb-ed2f406cabb5)
-[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9b8e5c1e-bd77-49c9-8d04-59c8ac228f19.jpeg?v=1790141300)](https://www.boot.dev/certificates/9b8e5c1e-bd77-49c9-8d04-59c8ac228f19)
+Boot.Dev - Python, Linux, Git, Go
+Google IT Support Career Cert
+### Working on...
+A Helldiver's 2 stratagem randomizer GUI 
+
 <!--
 **cdawson1337/cdawson1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
